@@ -9,5 +9,12 @@
   "seal": "A man who can sell anything has nothing of his own — until he learns to stop closing and start staying. A real parable about wanting a home, inside a comedy whose worst gag it never should have made.",
   "seal_sha256": "0159cf21b96bb5f3dc4ea866b764c61e0be44b3ec90269e5b835e9ac7ba73285",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 691,
+    "prev": "b8e53dca25df24d51df46049587fbfa435e194bf115efe8ebbbc93ff7a2c2f63",
+    "link": "921b87f2a74c5533d2670b6e01eb919d86e071e712badc96c94dd77904124e8e",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
